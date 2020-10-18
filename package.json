@@ -1,0 +1,19 @@
+{
+  "name": "networking",
+  "version": "1.0.0",
+  "description": "Networking Test",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "12.18.3"
+  },
+  "author": "TomKo",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
